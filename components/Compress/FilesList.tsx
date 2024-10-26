@@ -1,6 +1,6 @@
 import React from "react";
-import FileCard from "../widgets/FileCard";
-import FileUploadCard from "../widgets/FileUploadCard";
+import FileCard from "../Widgets/FileCard";
+import FileUploadCard from "../Widgets/FileUploadCard";
 import { UploadFile } from "@/types/uploadfile";
 
 interface FileListProps {

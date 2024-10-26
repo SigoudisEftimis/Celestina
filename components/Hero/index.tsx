@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { useState } from "react";
-import FileUpload from "../widgets/FileUpload";
+import FileUpload from "../Widgets/FileUpload";
 const Hero = () => {
   const [email, setEmail] = useState("");
 
