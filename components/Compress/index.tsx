@@ -3,7 +3,7 @@ import React, { useState, useRef } from "react";
 import { Alert, Button } from "flowbite-react";
 import { UploadFile } from "@/types/uploadfile";
 import { useFileConversion } from "@/hooks/file-conversion";
-import DropZone from "../widgets/DropZone";
+import DropZone from "../Widgets/DropZone";
 import FileList from "./FilesList";
 import {
   addFiles,
